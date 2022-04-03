@@ -8,7 +8,7 @@ This partner project was completed as a part of the Turing Front End Development
 4. Saved posters, both randomly selected and user created,  can be displayed and deleted on the 'View My Saved Posters' function.
 5. The user can move between the three main views through button clicks.
 
-Project can be found [here](https://github.com/GrantXBeard/hang-in-there)
+Project can be found [here](https://grantxbeard.github.io/hang-in-there/)
 
 ## How to use locally:
 
